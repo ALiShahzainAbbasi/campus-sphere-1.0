@@ -284,9 +284,3 @@ We welcome contributions to Campus Sphere! Please follow these steps:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
-
-<div align="center">
-  <p>Developed by BSCS students at FAST-NUCES Islamabad</p>
-  <p>© 2025 Campus Sphere</p>
-</div>
-# campus-sphere-1.0
