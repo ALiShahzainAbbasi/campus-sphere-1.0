@@ -32,8 +32,6 @@
 
 **Campus Sphere** is a comprehensive full-stack platform designed to enhance student engagement with university societies and events. It provides a centralized hub where students can discover societies, join events, and provide valuable feedback, while society presidents can manage their organizations effectively.
 
-Developed by BSCS students at FAST-NUCES Islamabad as a Final Year Project, Campus Sphere addresses the common challenges in university society management with a modern, user-friendly interface and robust backend architecture.
-
 ## ✨ Features
 
 ### Authentication & User Management
